@@ -27,11 +27,13 @@ Gender-Detection/
 
 
 
-#How to Run
-python gender.py        
-python test_gender.py
-#Notes
+## How to Run
+ python gender.py        
+ python test_gender.py
+
+## Notes
 Dataset is not included due to size limitations
+
 ## Installation
 ```bash
 git clone https://github.com/<saharsistani137777-lab>/Gender-Detection-ML.git
