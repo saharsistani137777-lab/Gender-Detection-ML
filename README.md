@@ -13,11 +13,8 @@ Gender-Detection/
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
-├── Gender/
-│ ├── male/
-│ └── female/
-└── test_gender/
-
+├── Gender
+├──GITIGNORE
 
 ## Installation
 ```bash
